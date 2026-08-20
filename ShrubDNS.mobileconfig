@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+
+    <key>PayloadIdentifier</key>
+    <string>com.shrubhub.shrubdns.profile</string>
+
+    <key>PayloadUUID</key>
+    <string>2ae654b9-921f-4cf4-afa8-eff4deb5f63b</string>
+
+    <key>PayloadDisplayName</key>
+    <string>ShrubDNS 🌿</string>
+
+    <key>PayloadOrganization</key>
+    <string>ShrubHub LLC</string>
+
+    <key>PayloadDescription</key>
+    <string>🛡️ A simple anti-revoke DNS for iOS sideloading.</string>
+
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+
+    <key>ConsentText</key>
+    <dict>
+        <key>default</key>
+        <string>⚠️ PLEASE READ THIS ENTIRE MESSAGE BEFORE INSTALLING SHRUBDNS.
+
+🌿 Welcome to ShrubDNS!
+
+🛡️ ShrubDNS is a simple anti-revoke DNS made for iOS sideloading. It helps prevent your sideloaded apps from getting revoked and suddenly stopping.
+
+📱 ShrubDNS is meant to be simple: one DNS profile you install and use. It does not include the extra profiles or advanced features found in some other anti-revoke DNS setups.
+
+⚠️ ShrubDNS can help prevent revokes, but no anti-revoke DNS can guarantee that a sideloaded app will never be revoked.
+
+🔒 OFFICIAL SOURCE
+ShrubDNS is officially distributed through the ShrubHub Discord server. If you received this profile from anywhere else, you received an unauthorized/stolen copy. For your safety, only install ShrubDNS obtained directly from ShrubHub.
+
+💬 Support, updates, and official downloads:
+https://discord.gg/Zt3cgdSvkd
+
+🌿 Thanks for using ShrubDNS!
+
+Copyright © 2026 ShrubHub LLC</string>
+    </dict>
+
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+
+            <key>PayloadIdentifier</key>
+            <string>com.shrubhub.shrubdns.dns</string>
+
+            <key>PayloadUUID</key>
+            <string>764723a0-cddb-4c17-aa58-d4c19825773e</string>
+
+            <key>PayloadDisplayName</key>
+            <string>ShrubDNS 🌿</string>
+
+            <key>PayloadDescription</key>
+            <string>🛡️ Simple anti-revoke DNS for iOS sideloading.</string>
+
+            <key>PayloadOrganization</key>
+            <string>ShrubHub LLC</string>
+
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+
+                <key>ServerURL</key>
+                <string>https://371xjxpaih.cloudflare-gateway.com/dns-query</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
