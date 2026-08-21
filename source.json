@@ -5,7 +5,7 @@
     {
       "name": "SCMusicPlus",
       "bundleIdentifier": "com.soundcloud.TouchApp",
-      "developerName": "Community",
+      "developerName": "@ipa_dark",
       "version": "8.74.0",
       "versionDate": "2026-08-21",
       "versionDescription": "SoundCloud Plus Release",
@@ -29,8 +29,8 @@
     {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
-      "developerName": "Feather Team",
-      "version": "1.0",
+      "developerName": "claration",
+      "version": "2.9.0",
       "versionDate": "2026-08-21",
       "versionDescription": "On-device signing and installation utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Feather.ipa",
@@ -41,7 +41,7 @@
     {
       "name": "Five Nights at Freddy's",
       "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "Scott Games",
+      "developerName": "Scott Cawthon",
       "version": "2.0.5",
       "versionDate": "2026-08-21",
       "versionDescription": "Version 2.0.5",
@@ -53,8 +53,8 @@
     {
       "name": "KSign",
       "bundleIdentifier": "nya.asami.ksign",
-      "developerName": "Asami",
-      "version": "1.0",
+      "developerName": "Nyasami",
+      "version": "1.6.1",
       "versionDate": "2026-08-21",
       "versionDescription": "IPA signing utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Ksign.ipa",
@@ -66,7 +66,7 @@
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
-      "version": "1.0",
+      "version": "3.8.0",
       "versionDate": "2026-08-21",
       "versionDescription": "Run apps without resigning.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/LiveContainer.ipa",
