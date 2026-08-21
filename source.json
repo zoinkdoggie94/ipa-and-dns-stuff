@@ -1,0 +1,102 @@
+{
+  "name": "ShrubSource",
+  "identifier": "com.shrubsource.repo",
+  "apps": [
+    {
+      "name": "SCMusicPlus",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "Community",
+      "version": "8.74.0",
+      "versionDate": "2026-08-21",
+      "versionDescription": "SoundCloud Plus Release",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/1659-SoundCloud.Plus.v8.74.0.tg@ipa_dark.ipa",
+      "localizedDescription": "SoundCloud client with added enhancements.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/soundcloud.png",
+      "size": 0
+    },
+    {
+      "name": "Delta Executor",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "developerName": "Delta Team",
+      "version": "2.733.988.2",
+      "versionDate": "2026-08-21",
+      "versionDescription": "Delta Executor Mobile Release",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Delta-2.733.988.2.ipa",
+      "localizedDescription": "Delta Executor for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/delta.png",
+      "size": 0
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "developerName": "Feather Team",
+      "version": "1.0",
+      "versionDate": "2026-08-21",
+      "versionDescription": "On-device signing and installation utility.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Feather.ipa",
+      "localizedDescription": "On-device signing tool for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/feather.png",
+      "size": 0
+    },
+    {
+      "name": "Five Nights at Freddy's",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "developerName": "Scott Games",
+      "version": "2.0.5",
+      "versionDate": "2026-08-21",
+      "versionDescription": "Version 2.0.5",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Five-Nights-at-Freddys-v2.0.5-iosvizor.ipa",
+      "localizedDescription": "Survival horror game.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/fnaf.png",
+      "size": 0
+    },
+    {
+      "name": "KSign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "developerName": "Asami",
+      "version": "1.0",
+      "versionDate": "2026-08-21",
+      "versionDescription": "IPA signing utility.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Ksign.ipa",
+      "localizedDescription": "Utility to sign IPAs directly on iOS.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/ksign.png",
+      "size": 0
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer Team",
+      "version": "1.0",
+      "versionDate": "2026-08-21",
+      "versionDescription": "Run apps without resigning.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/LiveContainer.ipa",
+      "localizedDescription": "Run multiple apps inside a single container.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/livecontainer.png",
+      "size": 0
+    },
+    {
+      "name": "SpotC++",
+      "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+      "developerName": "SpotC++ Team",
+      "version": "2.6.3",
+      "versionDate": "2026-08-21",
+      "versionDescription": "SpotC++ v2.6.3 (Spotify v9.0.98)",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/SpotC++.v2.6.3_v9.0.98.ipa",
+      "localizedDescription": "Spotify client with custom modifications.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/spotify.png",
+      "size": 0
+    },
+    {
+      "name": "YTKACE",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "YTKACE Team",
+      "version": "0.8.5",
+      "versionDate": "2026-08-21",
+      "versionDescription": "YTKACE 0.8.5 (YouTube 21.33.5)",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/YTKACE_0.8.5_YouTube_21.33.5.ipa",
+      "localizedDescription": "YouTube client with extra features.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/youtube.png",
+      "size": 0
+    }
+  ]
+}
