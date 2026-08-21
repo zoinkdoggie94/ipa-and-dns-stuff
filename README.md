@@ -1,0 +1,1 @@
+# I do not own any of these IPA files. GitHub, do not take down this repository as I am only hosting files made by other people. If you are going to take down a repository, take down theirs. Not mine. Thank you.
