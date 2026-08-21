@@ -1,6 +1,8 @@
 {
   "name": "ShrubSource",
   "identifier": "com.shrubsource.repo",
+  "subtitle": "Tweaked apps, utilities, and games",
+  "description": "Welcome to ShrubSource! Your curated hub for essential iOS sideloading tools, tweaked apps, game utilities, and media mods.\n\n🟢 STATUS CHECKER: All apps are currently UP TO DATE (Last verified: August 21, 2026).",
   "apps": [
     {
       "name": "SCMusicPlus",
@@ -30,7 +32,7 @@
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "developerName": "Feather Team",
-      "version": "1.0",
+      "version": "2.9.0",
       "versionDate": "2026-08-21",
       "versionDescription": "On-device signing and installation utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Feather.ipa",
@@ -54,7 +56,7 @@
       "name": "KSign",
       "bundleIdentifier": "nya.asami.ksign",
       "developerName": "Asami",
-      "version": "1.0",
+      "version": "1.6.1",
       "versionDate": "2026-08-21",
       "versionDescription": "IPA signing utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Ksign.ipa",
@@ -66,7 +68,7 @@
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
-      "version": "1.0",
+      "version": "3.8.0",
       "versionDate": "2026-08-21",
       "versionDescription": "Run apps without resigning.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/LiveContainer.ipa",
