@@ -5,7 +5,7 @@
     {
       "name": "SCMusicPlus",
       "bundleIdentifier": "com.soundcloud.TouchApp",
-      "developerName": "@ipa_dark",
+      "developerName": "Community",
       "version": "8.74.0",
       "versionDate": "2026-08-21",
       "versionDescription": "SoundCloud Plus Release",
@@ -29,8 +29,8 @@
     {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
-      "developerName": "claration",
-      "version": "2.9.0",
+      "developerName": "Feather Team",
+      "version": "1.0",
       "versionDate": "2026-08-21",
       "versionDescription": "On-device signing and installation utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Feather.ipa",
@@ -41,7 +41,7 @@
     {
       "name": "Five Nights at Freddy's",
       "bundleIdentifier": "com.scottgames.fivenights",
-      "developerName": "Scott Cawthon",
+      "developerName": "Scott Games",
       "version": "2.0.5",
       "versionDate": "2026-08-21",
       "versionDescription": "Version 2.0.5",
@@ -53,8 +53,8 @@
     {
       "name": "KSign",
       "bundleIdentifier": "nya.asami.ksign",
-      "developerName": "Nyasami",
-      "version": "1.6.1",
+      "developerName": "Asami",
+      "version": "1.0",
       "versionDate": "2026-08-21",
       "versionDescription": "IPA signing utility.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Ksign.ipa",
@@ -66,7 +66,7 @@
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
-      "version": "3.8.0",
+      "version": "1.0",
       "versionDate": "2026-08-21",
       "versionDescription": "Run apps without resigning.",
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/LiveContainer.ipa",
@@ -96,6 +96,18 @@
       "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/YTKACE_0.8.5_YouTube_21.33.5.ipa",
       "localizedDescription": "YouTube client with extra features.",
       "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/youtube.png",
+      "size": 0
+    },
+    {
+      "name": "RainTweak",
+      "bundleIdentifier": "com.cocobo1.raintweak",
+      "developerName": "cocobo1",
+      "version": "331.0",
+      "versionDate": "2026-08-21",
+      "versionDescription": "RainTweak Discord client release.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/RainTweak.ipa",
+      "localizedDescription": "Custom Discord client with extra tweaks and features.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/discord.png",
       "size": 0
     }
   ]
