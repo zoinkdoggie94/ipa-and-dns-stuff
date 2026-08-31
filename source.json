@@ -111,6 +111,54 @@
       "localizedDescription": "Custom Discord client with extra tweaks and features.",
       "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/discord.png",
       "size": 0
+    },
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "developerName": "RobTop Games",
+      "version": "2.208",
+      "versionDate": "2026-08-31",
+      "versionDescription": "Geometry Dash v2.208 release.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/geometry-dash-v2.208.ipa",
+      "localizedDescription": "Rhythm-based action platformer game.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/geometrydash.png",
+      "size": 0
+    },
+    {
+      "name": "Stickman Downhill Motocross",
+      "bundleIdentifier": "com.djinnworks.StickmanDownhillMotocross",
+      "developerName": "Djinnworks GmbH",
+      "version": "2.4",
+      "versionDate": "2026-08-31",
+      "versionDescription": "Stickman Downhill Motocross v2.4",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Stickman-Downhill-Motocross-v2.4.ipa",
+      "localizedDescription": "Fast-paced motocross downhill racing game.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/stickmandownhillmotocross.png",
+      "size": 0
+    },
+    {
+      "name": "Stickman Tennis",
+      "bundleIdentifier": "com.djinnworks.StickmanTennis",
+      "developerName": "Djinnworks GmbH",
+      "version": "3.2",
+      "versionDate": "2026-08-31",
+      "versionDescription": "Stickman Tennis v3.2",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/Stickman-Tennis-v3.2.ipa",
+      "localizedDescription": "Realistic and fast-paced tennis sports game.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/stickmantennis.png",
+      "size": 0
+    },
+    {
+      "name": "Geode",
+      "bundleIdentifier": "com.geode.launcher",
+      "developerName": "Geode Team",
+      "version": "1.5.4",
+      "versionDate": "2026-08-31",
+      "versionDescription": "Geode Launcher v1.5.4 mod loader for Geometry Dash.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/A/com.geode.launcher_1.5.4.ipa",
+      "localizedDescription": "Mod loader and mod manager for Geometry Dash.",
+      "iconURL": "https://raw.githubusercontent.com/zoinkdoggie94/ipa-and-dns-stuff/main/icons/geode.png",
+      "size": 0
     }
   ]
 }
