@@ -126,7 +126,7 @@
     },
     {
       "name": "Stickman Downhill Motocross",
-      "bundleIdentifier": "com.djinnworks.StickmanDownhillMotocross",
+      "bundleIdentifier": "com.rsz.StickmanDownhillMotocross",
       "developerName": "Djinnworks GmbH",
       "version": "2.4",
       "versionDate": "2026-08-31",
@@ -138,7 +138,7 @@
     },
     {
       "name": "Stickman Tennis",
-      "bundleIdentifier": "com.djinnworks.StickmanTennis",
+      "bundleIdentifier": "com.rsz.StickmanTennis",
       "developerName": "Djinnworks GmbH",
       "version": "3.2",
       "versionDate": "2026-08-31",
