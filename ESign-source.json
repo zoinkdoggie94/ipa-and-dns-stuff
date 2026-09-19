@@ -1,0 +1,38 @@
+{
+  "name": "Shrubbery's Signing Source",
+  "identifier": "com.shrubbery.esign-source",
+  "subtitle": "Up to date signers",
+  "description": "A simple source containing IPA signers",
+  "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+  "website": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff",
+  "tintColor": "018084",
+  "apps": [
+    {
+      "name": "ESign No Logs",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "developerName": "yyyue",
+      "subtitle": "ESign 5.0.2 with telemetry removed",
+      "localizedDescription": "ESign v5.0.2 No Logs. An on-device IPA signing and installation app with telemetry removed by u/Sharp_Listen3436",
+      "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor": "018084",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "5.0.2",
+          "buildVersion": "5.0.2",
+          "date": "2026-09-19",
+          "localizedDescription": "ESign v5.0.2 No Logs.",
+          "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/ESign/ESign-V5.0.2-No-Logs.ipa",
+          "size": 6910000
+        }
+      ],
+      "appPermissions": {},
+      "version": "5.0.2",
+      "versionDate": "2026-09-19",
+      "versionDescription": "ESign v5.0.2 No Logs.",
+      "downloadURL": "https://github.com/zoinkdoggie94/ipa-and-dns-stuff/releases/download/ESign/ESign-V5.0.2-No-Logs.ipa",
+      "size": 6910000
+    }
+  ],
+  "news": []
+}
